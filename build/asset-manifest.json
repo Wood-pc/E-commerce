@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df7906ce.css",
+    "main.js": "/static/js/main.5489ccb4.js",
+    "static/media/githubLogo.png": "/static/media/githubLogo.15fbd8eb364497763745.png",
+    "static/media/paymentLogo.png": "/static/media/paymentLogo.d69d45ebf1f2694e182a.png",
+    "static/media/googleLogo.png": "/static/media/googleLogo.f139f4845b393fabde21.png",
+    "static/media/logoDark.png": "/static/media/logoDark.8741fa32f68ffe66b207.png",
+    "static/media/cartImg.png": "/static/media/cartImg.1bceeb7c1d3b56d5606c.png",
+    "index.html": "/index.html",
+    "main.df7906ce.css.map": "/static/css/main.df7906ce.css.map",
+    "main.5489ccb4.js.map": "/static/js/main.5489ccb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7906ce.css",
+    "static/js/main.5489ccb4.js"
+  ]
+}
